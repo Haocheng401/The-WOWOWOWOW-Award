@@ -1,0 +1,36 @@
+body{
+    background-image:url("https://s28241.pcdn.co/wp-content/uploads/2016/12/updated-award-winning-banner-background.jpg");
+    background-size: 2000px 2000px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+p{
+    color:white;   
+    font-size:25px;
+}
+
+h1{
+    color:white;   
+}
+
+img{
+    height:250px;  
+    border: solid 10px white;
+}
+
+.one{
+    font-family: 'Abril Fatface', cursive;
+}
+
+.two{
+    font-family: 'Fredoka One', cursive;   
+}
+
+.three{
+    font-family: 'Press Start 2P', cursive;   
+}
+
+.four{
+    font-family: 'Audiowide', cursive;
+}
